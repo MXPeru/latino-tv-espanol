@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Noticias",France 24 Español
+https://live.france24.com/hls/live/2037210/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 group-title="Noticias",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-espanol.m3u8
+
+#EXTINF:-1 group-title="Perú",Canal IPe
+https://cdnh8.iblups.com/hls/irtp1.m3u8
+
+#EXTINF:-1 group-title="Noticias",RTVE 24 Horas
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:-1 group-title="Noticias",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
